@@ -11,3 +11,11 @@
 **Today's Progress**: Reviewed more JavaScript and skimmed through [Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) and [2018](https://frontendmasters.com/books/front-end-handbook/2018/) by Frontend Masters. I also did a few data structures and algorithm problems
 
 **Thoughts**: Although I'm pretty comfortable with HTML/CSS/Sass/basic JS, I'm weak at DSA exercises
+
+### Day 3: October 3, 2020
+
+**Today's Progress**: Reviewed ES6 and fixed an issue on my Node.js project that has been abandoned. I finally completed the project with added features!
+
+**Thoughts**: "Just keep practicing!"
+
+**Link(s) to work**: [NodeJS LS command clone](https://github.com/michelleracho/nodejs-ls-command-clone)
