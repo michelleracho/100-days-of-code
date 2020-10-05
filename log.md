@@ -19,3 +19,14 @@
 **Thoughts**: "Just keep practicing!"
 
 **Link(s) to work**: [NodeJS LS command clone](https://github.com/michelleracho/nodejs-ls-command-clone)
+
+### Day 4: October 4, 2020
+
+**Today's Progress**: Completed 2 React exercises about states
+
+**Thoughts**: "Just keep practicing!"
+
+**Link(s) to work**: 
+  - [Coin Flipper](https://github.com/michelleracho/reactjs-coin-filpper)
+  - [Color Box](https://github.com/michelleracho/reactjs-color-box)
+  
