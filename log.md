@@ -22,11 +22,12 @@
 
 ### Day 4: October 4, 2020
 
-**Today's Progress**: Completed 2 React exercises about states
+**Today's Progress**: Completed 2 React exercises about states and also completed a frontend mentor challenge!
 
 **Thoughts**: "Just keep practicing!"
 
 **Link(s) to work**: 
   - [Coin Flipper](https://github.com/michelleracho/reactjs-coin-filpper)
   - [Color Box](https://github.com/michelleracho/reactjs-color-box)
+  - [Frontend Mentor Challenge - Article Preview Component](https://github.com/michelleracho/article-preview-component)
   
