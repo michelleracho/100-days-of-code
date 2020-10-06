@@ -31,3 +31,8 @@
   - [Color Box](https://github.com/michelleracho/reactjs-color-box)
   - [Frontend Mentor Challenge - Article Preview Component](https://github.com/michelleracho/article-preview-component)
   
+ ### Day 5: October 5, 2020
+
+**Today's Progress**: Redesigned my portfolio website using Adobe XD and got a lot more comfortable with XD. Also learned about React events
+
+**Thoughts**: My new portfolio design is a level up to the current design and I cant wait to implement it!
