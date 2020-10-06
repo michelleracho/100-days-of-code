@@ -36,3 +36,12 @@
 **Today's Progress**: Redesigned my portfolio website using Adobe XD and got a lot more comfortable with XD. Also learned about React events
 
 **Thoughts**: My new portfolio design is a level up to the current design and I cant wait to implement it!
+
+ ### Day 6: October 6, 2020
+
+**Today's Progress**: Created my first CSS art!
+
+**Thoughts**: CSS art is too time consuming but it's so much fun!
+
+**Link(s) to work**: 
+  - [CSS Art - Rilakkuma](https://codepen.io/michruuu/pen/vYKYYLd?editors=1100)
