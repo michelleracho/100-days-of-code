@@ -45,3 +45,12 @@
 
 **Link(s) to work**: 
   - [CSS Art - Rilakkuma](https://codepen.io/michruuu/pen/vYKYYLd?editors=1100)
+  
+### Day 7: October 7, 2020
+
+**Today's Progress**: Reviewed data structures and completed a simple React Hangman exercise
+
+**Thoughts**: I need to work on data structures and algorithm exercises...
+
+**Link(s) to work**: 
+  - [Hangman exercise](https://github.com/michelleracho/reactjs-hangman)
