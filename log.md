@@ -54,3 +54,13 @@
 
 **Link(s) to work**: 
   - [Hangman exercise](https://github.com/michelleracho/reactjs-hangman)
+  
+ ### Day 8: October 8, 2020
+
+**Today's Progress**: Completed the Lights Out exercise and started working on my portfolio v2 - did the navbar :D
+
+**Thoughts**: I'm really excited about building my portfolio v2!!
+
+**Link(s) to work**: 
+  - [Lights Out](https://github.com/michelleracho/reactjs-lights-out)
+  - [My Website Portfolio v2 with React](https://github.com/michelleracho/my-website-v2)
