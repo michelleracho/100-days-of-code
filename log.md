@@ -64,3 +64,24 @@
 **Link(s) to work**: 
   - [Lights Out](https://github.com/michelleracho/reactjs-lights-out)
   - [My Website Portfolio v2 with React](https://github.com/michelleracho/my-website-v2)
+  
+### Day 9 and 10: October 9-10, 2020
+
+**Today's Progress**: Worked on a code test for a frontend engineer position!
+
+**Thoughts**: The code test was reasonable and fun! I like this kind of code test :)
+
+### Day 11: October 11, 2020
+
+**Today's Progress**: Did a last check on the code test and turned it in
+
+**Thoughts**: I really like the company :') I hope they give me feedback on my test!
+
+### Day 12: October 12, 2020
+
+**Today's Progress**: Back to learning React! Worked on the about section of my portfolio v2
+
+**Thoughts**: How do you add dynamic styles to SVG paths in a react component??
+
+
+
