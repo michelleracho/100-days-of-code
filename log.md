@@ -83,5 +83,11 @@
 
 **Thoughts**: How do you add dynamic styles to SVG paths in a react component??
 
+### Day 13: October 13, 2020
+
+**Today's Progress**: Worked on more portfolio v2 stuff. Learned about React.createRef() which does magic to the elements created in the render method
+
+**Thoughts**: I dont know if what I'm doing in my portfolio v2 is right...
+
 
 
