@@ -89,5 +89,14 @@
 
 **Thoughts**: I dont know if what I'm doing in my portfolio v2 is right...
 
+### Day 14: October 14, 2020
+
+**Today's Progress**: Worked on a frontend mentor challenge and redid the color game project
+
+**Thoughts**: I like frontend mentor challenges
+
+**Link(s) to work**: 
+  - [Huddle Landing Page - Frontend Mentor Challenge](https://github.com/michelleracho/huddle-landing-page-with-a-single-introductory-section)
+  - [Guess the RGB](https://github.com/michelleracho/guess-the-rgb)
 
 
