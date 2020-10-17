@@ -99,4 +99,15 @@
   - [Huddle Landing Page - Frontend Mentor Challenge](https://github.com/michelleracho/huddle-landing-page-with-a-single-introductory-section)
   - [Guess the RGB](https://github.com/michelleracho/guess-the-rgb)
 
+### Day 15: October 15, 2020
+
+**Today's Progress**: Worked on the portfolio
+
+**Thoughts**: The current design has so much whitespace I need to make better use of...
+
+### Day 16: October 16, 2020
+
+**Today's Progress**: Worked on the portfolio, played around with Bootstrap, learned the best practice for box-sizing!
+
+**Thoughts**: I personally prefer custom CSS but Bootstrap is a good tool to have!
 
