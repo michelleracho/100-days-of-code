@@ -111,3 +111,9 @@
 
 **Thoughts**: I personally prefer custom CSS but Bootstrap is a good tool to have!
 
+### Day 17: October 17, 2020
+
+**Today's Progress**: Played around with Bootstrap and worked on the portfolio - more on the lists, ran into an issue with the <a> tags passed as props but managed to solve it :)
+
+**Thoughts**: I'm confused and I dont know why the < a > tags were doing some weird stuff...
+
