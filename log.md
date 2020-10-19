@@ -117,3 +117,8 @@
 
 **Thoughts**: I'm confused and I dont know why the < a > tags were doing some weird stuff...
 
+### Day 18: October 18, 2020
+
+**Today's Progress**: Learned about react forms and worked on the design of my fictional coffee shop with adobe xd
+
+**Thoughts**: I realized I went ahead of myself when working with my portfolio v2 and didnt do some of the components the "react way"
