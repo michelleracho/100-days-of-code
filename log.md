@@ -122,3 +122,18 @@
 **Today's Progress**: Learned about react forms and worked on the design of my fictional coffee shop with adobe xd
 
 **Thoughts**: I realized I went ahead of myself when working with my portfolio v2 and didnt do some of the components the "react way"
+
+### Day 19-20: October 19-20, 2020
+
+**Today's Progress**: got sick... only managed to review some javascript
+
+
+### Day 21: October 21, 2020
+
+**Today's Progress**: Learned about react lifecycles, built a todo list app and a card deck app
+
+**Thoughts**: I wanted to work on the portfolio and add more features/styles to it but decided to wait until I learn more react so that i can do it the 'react way' properly
+
+**Link(s) to work**: 
+  - [React Todo List](https://github.com/michelleracho/react-todo-list)
+  - [Card Deck](https://github.com/michelleracho/react-deck-of-cards)
